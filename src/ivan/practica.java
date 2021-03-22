@@ -9,6 +9,7 @@ public class practica {
 			System.out.println(i);
 		}
 		
+		System.out.println("hola esta es la modificacion de huan");
 		
 	}
 
